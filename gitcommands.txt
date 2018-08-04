@@ -1,0 +1,235 @@
+   37  git branch
+   38  git remote add origin https://github.com/thechipcoder/test.git
+   39  git remote show origin
+   40  git remote -v
+   41  git push --help
+   42  git remote -v
+   43  git push -u origin master
+   44  git branch
+   45  git push test:test
+   46  git push origin test:test
+   47  git branch
+   48  git remote -v
+   49  git rev-parse head
+   50  git log
+   52  git log head
+   53  git branch
+   54  git status
+   55  git log
+   56  git branch
+   57  git checkout test
+   58  git status
+   59  git log
+   60  git rev-parse head
+   61  git log
+   63  git log
+   64  git rev-parse head
+   65  git push https://github.com/thechipcoder/final.git head:test_clone
+   66  git status
+   67  git remote -v
+   68  git status
+   70  git status
+   71  git branch
+   72  git log
+   73  git remote -v
+   74  git branch
+   76  git status
+   78  git add .
+   79  git status
+   81  git log
+   83  git status
+   84  git commit -a
+   85  git status
+   86  git log
+   87  git rev-parse head
+   89  git status
+   90  git branch
+   91  git log
+   92  git rev-parse head
+   93  git remote -v
+   94  git push origin https://github.com/thechipcoder/test.git head:test
+   95  git push origin https://github.com/thechipcoder/test.git head:test
+   96  git remote -v
+   97  git push https://github.com/thechipcoder/test.git head:test
+   98  git status
+   99  git log
+  100  git push https://github.com/thechipcoder/final.git head:test_clone
+  102  git branch
+  103  git log
+  104  git rev-parse head
+  105  git remote -v
+  108  git status
+  109  git commit -a
+  110  git status
+  111  git log
+  114  git log
+  116  git log
+  117  git remote -v
+  118  git push origin head:test
+  120  git log
+  122  git status
+  123  git commit -a
+  124  git status
+  126  git log
+  127  git push origin head:test
+  128  git log
+  130  git log
+  131  git push https://github.com/thechipcoder/final head:test_clone
+  136  git status
+  137  git log
+  142  mkdir git_final
+  143  cd git
+  144  cd git_final/
+  146  git clone https://github.com/thechipcoder/final .
+  147  git status
+  149  git status
+  150  git log
+  151  git rev-parse head
+  152  git remote -v
+  154  git status
+  155  git log
+  156  git status
+  158  git status
+  159  git remote -v
+  160  git branch
+  161  git status
+  162  git log
+  164  git log
+  165  git branch
+  167  git branch
+  168  git log
+  169  git status
+  170  git branch
+  171  git rev-parse head
+  172  git remote -v
+  173  git config -l
+  174  git config -l
+  176  git config -l
+  178  git rev-parse ref
+  179  git rev-parse origin
+  180  git rev-parse head
+  181  git config -l
+  182  git status
+  183  git log
+  184  git branch
+  192  cd git
+  193  cd gitcheck
+  195  git status
+  197  cd git_final/
+  199  git status
+  200  git log
+  201  git remote show origin
+  206  git remote show origin
+  207  git branch
+  208  git branch
+  209  git status
+  210  git branch
+  211  git pull
+  214  git log
+  215  git branch
+  216  git pull
+  218  git remote show origin
+  219  git rev-parse head
+  220  git log
+  222  git log
+  223  git branhc
+  224  git branch
+  226  git push --help
+  227  git branch
+  228  git checkout -b managed/ip_test
+  229  git branch
+  230  git log
+  232  git log
+  233  git rev-parse head
+  234  git push -u origin head:managed/ip_test
+  235  git status
+  237  git remote show origin
+  238  git branhccc
+  239  git rev-parse headdfdfdfdfdfdfdfdf
+  241  git status
+  242  git branch
+  243  git checkout test_clone
+  244  git branch
+  245  git remote show origin
+  246  git log
+  247  git status
+  248  git checkout managed/ip_test
+  249  git branch
+  251  git status
+  254  git status
+  255  git commit -a
+  256  git status
+  257  git log
+  260  git status
+  261  git log
+  262  git remote show origin
+  263  git rev-parse head
+  264  git log
+  265  git push 
+  266  git log
+  268  git log
+  269  git status
+  270  git branch
+  271  git checkout test_clone
+  272  git status
+  274  git branch
+  275  git log
+  276  git log
+  277  git log managed/ip_test
+  278  git log managed/ip_test
+  279  git branch
+  280  git push origin head:refs/head/managed/ip_rel
+  281  git branch
+  282  git status
+  283  git remote show origin
+  284  git remote -r
+  285  git remote branch -r
+  286  git remote branch
+  287  git branch -r
+  292  cd gitcheck
+  293  git status
+  294  git log
+  296  git remote show origin
+  297  git branch
+  298  git rev-parse head
+  299  git log
+  301  git log
+  302  git remote show origin
+  303  git remote -v
+  305  git remote -v
+  306  git branch
+  307  git branch -r
+  308  git remote show origin
+  309  git status
+  312  git branch
+  360  git status
+  361  cd gitcheck/
+  363  git status
+  365  git show
+  366  git branch
+  367  git remote show origin
+  368  git reflog
+  369  git rev-parse head
+  370  git stash list
+  371  git show stash@{0}
+  372  git remote show origin
+  373  git stash list
+  374  git show
+  375  git remote -v
+  376  git branch -r
+  509  git branch
+  510  cd gitcheck/
+  512  git status
+  513  git branch
+  514  git remote -v
+  515  git remote -v
+  521  cd git status
+  522  cd git_final/
+  523  git status
+  525  git status
+  526  git branch
+  530  git branch
+  532  git status
+  533  git history
+  535  history | grep git
+  536  history | grep git > gitcommands.txt
